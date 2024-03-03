@@ -1,5 +1,8 @@
-## Hi there 👋
-**iDiscuss** is a dynamic and collaborative platform founded by tech enthusiasts and driven by a passion for knowledge sharing and community building.
+# 👋 Welcome!
+
+### Welcome to [iDiscuss](https://github.com/idiscuss1) ！With a love for community building and information sharing, IT enthusiasts established this dynamic and collaborative platform. This welcoming technical community aims to exchange expertise in many technological domains. 
+
+> You don't get unity by ignoring the questions that have to be faced.
 <!--
 
 **Here are some ideas to get you started:**
